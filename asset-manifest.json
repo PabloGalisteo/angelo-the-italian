@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/angelo-the-italian/static/css/main.0b1f4f58.chunk.css",
+    "main.js": "/angelo-the-italian/static/js/main.e38db6e3.chunk.js",
+    "main.js.map": "/angelo-the-italian/static/js/main.e38db6e3.chunk.js.map",
+    "runtime-main.js": "/angelo-the-italian/static/js/runtime-main.f81dc8a8.js",
+    "runtime-main.js.map": "/angelo-the-italian/static/js/runtime-main.f81dc8a8.js.map",
+    "static/js/2.9cfd472d.chunk.js": "/angelo-the-italian/static/js/2.9cfd472d.chunk.js",
+    "static/js/2.9cfd472d.chunk.js.map": "/angelo-the-italian/static/js/2.9cfd472d.chunk.js.map",
+    "index.html": "/angelo-the-italian/index.html",
+    "static/css/main.0b1f4f58.chunk.css.map": "/angelo-the-italian/static/css/main.0b1f4f58.chunk.css.map",
+    "static/js/2.9cfd472d.chunk.js.LICENSE.txt": "/angelo-the-italian/static/js/2.9cfd472d.chunk.js.LICENSE.txt",
+    "static/media/Spagetti.134100a0.jpg": "/angelo-the-italian/static/media/Spagetti.134100a0.jpg",
+    "static/media/angelo.c0509e31.png": "/angelo-the-italian/static/media/angelo.c0509e31.png",
+    "static/media/cream.7e3e35b6.jpg": "/angelo-the-italian/static/media/cream.7e3e35b6.jpg",
+    "static/media/eggs.8b210eeb.jpg": "/angelo-the-italian/static/media/eggs.8b210eeb.jpg",
+    "static/media/guanciale.8ff0bb94.jpg": "/angelo-the-italian/static/media/guanciale.8ff0bb94.jpg",
+    "static/media/onion.b4dd1054.jpeg": "/angelo-the-italian/static/media/onion.b4dd1054.jpeg",
+    "static/media/parmigiano.9fa6ac88.jpg": "/angelo-the-italian/static/media/parmigiano.9fa6ac88.jpg",
+    "static/media/pecorino-romano.ec2e222c.jpg": "/angelo-the-italian/static/media/pecorino-romano.ec2e222c.jpg",
+    "static/media/salt&pepper.c3a53086.jpg": "/angelo-the-italian/static/media/salt&pepper.c3a53086.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f81dc8a8.js",
+    "static/js/2.9cfd472d.chunk.js",
+    "static/css/main.0b1f4f58.chunk.css",
+    "static/js/main.e38db6e3.chunk.js"
+  ]
+}
